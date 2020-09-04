@@ -12,7 +12,7 @@
   "dependencies": {
     "express": "4.9.7",
     "body-parser": "1.9.0",
-    "mongodb": "1.4.19",
+    "mongodb": "3.6.1",
     "mongoose": "3.8.17",
     "q": "1.0.1",
     "array.prototype.find": "1.0.0",
